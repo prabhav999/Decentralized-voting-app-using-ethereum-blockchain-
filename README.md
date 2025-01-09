@@ -1,7 +1,7 @@
 
-#Decentralized Voting App Using Ethereum Blockchain
+**Decentralized Voting App Using Ethereum Blockchain**
 
-This project implements a decentralized voting system on the Ethereum blockchain, where users can vote for candidates in a transparent, immutable, and secure manner. The app utilizes smart contracts to ensure the integrity of the voting process and web3 technologies to interact with the Ethereum blockchain.
+*This project implements a decentralized voting system on the Ethereum blockchain, where users can vote for candidates in a transparent, immutable, and secure manner. The app utilizes smart contracts to ensure the integrity of the voting process and web3 technologies to interact with the Ethereum blockchain*
 
  The system is built with the following components:
 
